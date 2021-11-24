@@ -3,39 +3,15 @@ title: Iain Phillips
 layout: default
 ---
 
-Iain Phillips
+Chen Chen
 =============
 
-I'm a Senior Lecturer in Computer Science at Loughborough University,
-where I've worked for over 20 years as Research Assistant, Research
-Fellow, Lecturer and Senior Lecturer. From Feb 2008 until July 2011 I
-served as Head of Computer Science and as a result joined the Council of
-Profs and Heads of Computing Committee. I was CPHC Chair from 2012-2014
-then the Immediate Past Chair, then I left the committee.
+I’m currently a third year PhD student with computer science at Loughborough University, UK. 
+My research interests are broadly in areas of Software Defined Network, Cloud/Edge computing, network resource orchestration, in-network computing, 
+distributed system, mobile networks, kubernetes and P4. 
+Prior to joining Loughborough Univeristy in 2019, I received the B.S. degree in Electrical Engineering from Xidian University, Xi’an, China 
+and M.S degree in Electrical Engineering from TU Dresden, Germany. 
+After that I worked in the industry (e.g., Infineon and Huawei Technology) for a few years.
 
-In Academic year 2019-20 I hold the following external positions:
 
--   Member of the Board of the [BCS Acacdemy](http://academy.bcs.org)
--   Chair of the panel to decide the winner of the CPHC/BCS
-    Distinguished Dissertations competition
--   Co-chair of the NGN group in the UK. (<http://coseners.net>)
-
-And at Loughborough:
-
--   Director of Academic Staffing in the School of Science
-
-My [official web
-presence](http://www.lboro.ac.uk/departments/compsci/staff/academic-teaching/iain-phillips)
-is rather corporate, but lets you see some employment information and
-also useful things like a publication list.
-
-My research is based around the areas of [computer
-networking](https://www.lboro.ac.uk/departments/compsci/research/research-themes/netsys)
-and high performance computing. 
-
-I maintain a LaTeX class for writing reports, dissertations and theses
-at Loughborough: [luthesis](luthesis).
-
-[If you are interested in studying a PhD under my supervision at
-Loughborough, click here.](phdstudy)
 
