@@ -2,16 +2,10 @@
 title: Iain Phillips
 layout: default
 ---
-
-Chen Chen
+Fangzhou You
 =============
 
-I’m currently a third year PhD student with computer science at Loughborough University, UK.\
-My research interests are broadly in areas of Software Defined Network, Cloud/Edge computing, network resource orchestration, in-network computing, 
-distributed system, mobile networks, kubernetes and P4.\
-Prior to joining Loughborough Univeristy in 2019, I received the B.S. degree in Electrical Engineering from Xidian University, Xi’an, China 
-and M.S degree in Electrical Engineering from TU Dresden, Germany. \
-After that I worked in the industry (e.g., Infineon and Huawei Technology) for a few years.
-
-
-
+I'm a PhD student at the School of Design and Creative Arts, Loughborough University.
+I am keen in Design for Sustainable Behaviour.
+My current research interests includes participatory design, user behaviour research, design for behaviour change and design for susutainable behaviour.
+I'm a versatile scholar in terms of my educational experiences. I obtained my MA in Interaction Design (Tongji University, China), MSc in Systemic Design (Polytechnic University of Turin, Italy), BA in IndustrIal Design (East China Normal University, China) and BSc in Applied Psychology (Ibid.)
